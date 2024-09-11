@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://www.freepik.com/free-vector/stream-binary-code-design-vector_24382413.htm#query=coding%20background&position=41&from_view=keyword&track=ais_hybrid&uuid=5dbb9456-9e04-47be-977d-6daac4d06724"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Siddhant Singh</h1>
