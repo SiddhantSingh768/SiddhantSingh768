@@ -96,6 +96,12 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=SiddhantSingh768&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantsingh768&show_icons=true&locale=en&layout=compact" alt="siddhantsingh768" /></p>
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantsingh768&" alt="siddhantsingh768" /></p>
+
 <br/>  
 
 <div align="center">
@@ -117,8 +123,3 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhantsingh768&show_icons=true&locale=en&layout=compact" alt="siddhantsingh768" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhantsingh768&" alt="siddhantsingh768" /></p>
