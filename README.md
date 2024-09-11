@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://www.freepik.com/free-vector/stream-binary-code-design-vector_24382413.htm#query=coding%20background&position=41&from_view=keyword&track=ais_hybrid&uuid=5dbb9456-9e04-47be-977d-6daac4d06724"  />
+  <img height="150" src="https://ibb.co/ZNxXx2Z"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Siddhant Singh</h1>
